@@ -1,0 +1,12 @@
+
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Terragrunt
+.terragrunt-cache
+
+# Other
+.DS_Store
